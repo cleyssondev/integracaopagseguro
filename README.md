@@ -1,2 +1,2 @@
 # integracaopagseguro
-Integração com o PagSeguro em PHP
+Integração ao Pagseguro com PHP 7
